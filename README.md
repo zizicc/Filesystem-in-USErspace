@@ -11,4 +11,5 @@
 
 ## Usage
 • Can mount the hello filesystem with “./hellotime mountpoint”; will background and go silent.
+
 • Can unmount with “fusermount -u mountpoint”.
