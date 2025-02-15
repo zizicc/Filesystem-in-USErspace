@@ -1,4 +1,4 @@
-# Filesystem-in-USErspace
+# Filesystem in user space
 
 1. A new file "hello" with string "Hello World!" is introduced under the root directory.
 2. A new directory “time” is introduced under the root directory.
